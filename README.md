@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=furkan9528&theme=merko)
-![Profile views](https://gpvc.arturio.dev/[furkan9528])
+
+![](https://komarev.com/ghpvc/?username=furkan9528)
+
