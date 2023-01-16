@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm  Furkan!</h1>
 <br>
 
-![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkan9528&show_icons=true)
-
 
 <h3> 👨🏻‍💻 &nbsp;Me </h3>
 
