@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; Java | Python | JavaScript | NodeJS | TypeScript
+- 🌐 &nbsp; Java | Python 
 - 🌐 &nbsp; HTML | CSS  | Bootstrap 
 - 🛢 &nbsp; Oracle SQL | MongoDB | MySQL | SQL Server
 - 🔧 &nbsp; Git | Github | Gitlab | Vscode | Linux
