@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 &nbsp;Me </h3>
 
-- 🎓 &nbsp; Graduated in Computer Engineering in Paris-Descartes University 
+- 🎓 &nbsp; Graduated with a Master's degree in Computer Engineering from Paris Descartes University
 - 💼 &nbsp; I live in Paris/France 
 
 <h3>🛠 Tech Stack</h3>
